@@ -13,7 +13,7 @@ React와 Next.js를 사용해 사용자 경험을 만드는 것을 즐기며,
 
 ---
 
-### 📊 GitHub 통계  
+### 📊 GitHub 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=solp721&show_icons=true&theme=gradient" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solp721&layout=compact&theme=gradient" height="150" />
@@ -21,7 +21,7 @@ React와 Next.js를 사용해 사용자 경험을 만드는 것을 즐기며,
 
 ---
 
-### 🎯 인생 목표  
+### 🎯 Bucket List  
 - 🌏 **5개국어** 하기  
 - 🎸 **월광 소나타** 완주하기  
 - 🍹 **캘리포니아에서 술집** 운영하기  
