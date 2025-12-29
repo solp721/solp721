@@ -4,6 +4,7 @@
 
 ## 🔭 About
 - [Blog](https://solplog.vercel.app/)
+- [Linkedin](https://www.linkedin.com/in/gyuhwan-jeong-a3a0a9240)
 
 ## 💼 Experience
 - **Delivered Korea** | `Frontend` | `2025.11 - Present`
