@@ -8,4 +8,3 @@
 
 ## Experience
 - **Delivered Korea** | `Frontend` | `2025.11 - Present`
-- **SellFarm** | `Frontend` | `2025.09 - 2025.10`
